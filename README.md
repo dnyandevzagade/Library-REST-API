@@ -39,10 +39,18 @@ This is a simple RESTful API for managing a library's book collection, built wit
 - `search=keyword` → Search by title/author
 - `page=1&limit=10` → Pagination support
 
-## 🚀 Getting Started
+## 📚 Internship Details
 
-### 1. Clone the repo
+This project was developed as part of the **Task 2** during my internship at **CODTECH**.  
+Intern Name: **Dnyandev Rama Zagade**  
+Internship Duration: *Summer Internship 2025*  
+Project Title: *DESIGN A RESTFUL API FOR A
+LIBRARY OR INVENTORY SYSTEM,
+IMPLEMENTING CRUD OPERATIONS.*
 
-```bash
-git clone https://github.com/dnyandevzagade/Library-REST-API.git
+SCREEN SHOTS
+<img width="1483" height="765" alt="Screenshot 2025-07-18 171135" src="https://github.com/user-attachments/assets/5590f9a3-fe5c-47cf-9eaf-9c180aada382" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-18 170857" src="https://github.com/user-attachments/assets/d8b4021a-6800-422d-b699-c03d57236a90" />
+
+
 
